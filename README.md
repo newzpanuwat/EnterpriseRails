@@ -1,24 +1,13 @@
-# README
+Enterprise App
+=====================
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Powerful Software
+=====================
 
-Things you may want to cover:
+###Welcome to the repository
+This is my first webapplication
+Feel free to access my portfolio 
 
-* Ruby version
+Github : newzpanuwat
+Email : new_sbh@me.com
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
